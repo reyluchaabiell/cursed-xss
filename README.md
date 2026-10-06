@@ -1,0 +1,2 @@
+# cursed-xss
+webctf
